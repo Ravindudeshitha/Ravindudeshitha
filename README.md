@@ -1,11 +1,13 @@
+
 <h1 align="center">Hi 👋, I'm Ravindu</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindudeshitha&label=Profile%20views&color=0e75b6&style=flat" alt="ravindudeshitha" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ravindudeshitha&label=Views&color=0e75b6&style=flat" alt="ravindudeshitha"  height="30" /> </p>
 
+<hr>
 - 🌱 I’m currently learning **University of Jaffna**
-
-<h3 align="left">Connect with me:</h3>
+<hr>
+<h3>About me...</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ravindu deshitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravindu deshitha" height="30" width="40" /></a>
 <a href="https://fb.com/ravindu deshitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravindu deshitha" height="30" width="40" /></a>
