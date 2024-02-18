@@ -15,7 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+<img src="https://skillicons.dev/icons?i=git,bootstrap,cpp,css,discord,express,figma,firebase,github,html,java,js,mysql,nodejs,postman,py,react,tailwind,vscode&perline=14" />
   
 <table border="0" align="center">
 <tr border="0">
