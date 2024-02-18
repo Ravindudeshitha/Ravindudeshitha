@@ -9,8 +9,8 @@
 <hr>
 <h3>About me...</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ravindu deshitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravindu deshitha" height="30" width="40" /></a>
-<a href="https://fb.com/ravindu deshitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravindu deshitha" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/ravindu-deshitha-a7a817277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravindu deshitha" height="30" width="40" /></a>
+<a href="https://fb.com/ravindu deshitha](https://www.facebook.com/ravindu.deshitha.96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravindu deshitha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
